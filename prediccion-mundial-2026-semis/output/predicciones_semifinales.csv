@@ -1,3 +1,0 @@
-match_id,fecha,equipo_local,equipo_visitante,prob_local,prob_empate,prob_visitante,pct_montecarlo_local,ganador_predicho,confianza,marcador_probable,ya_jugado
-101.0,2026-07-14,Spain,France,0.40845162199450613,0.22820320046339068,0.36334517754210316,0.5336,Spain,0.5336,1-0,False
-102.0,2026-07-15,Argentina,England,0.30142327875189656,0.22381055468112482,0.4747661665669787,0.3834,England,0.6166,0-1,False
